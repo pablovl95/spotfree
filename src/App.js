@@ -7,7 +7,7 @@ function App() {
     // Lógica para la acción "Siguiente"
     console.log('Siguiente');
   };
-Hola
+
   const handleBack = () => {
     // Lógica para la acción "Atrás"
     console.log('Atrás');
